@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm tuantruongdev</h1>
-<h3 align="center">A developer from Thai Nguyen, Viet Nam</h3>
+<h3 align="center">A developer from Ha Noi, Viet Nam</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tuantruongdev?tab=repositories](https://github.com/tuantruongdev?tab=repositories)
 
