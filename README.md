@@ -6,6 +6,9 @@
 - 📫 How to reach me **tuantruong.a8k29@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/tuantruongdev?tab=repositories](https://github.com/tuantruongdev?tab=repositories)
+<a href="intent://www.example.com#Intent;scheme=https;package=com.android.chrome;end;">
+    Open in Chrome
+</a>
 
 - ⚡ Fun fact **Tuantruong’s tears cure cancer. Too bad he has never cried.**
 
